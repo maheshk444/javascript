@@ -5,8 +5,8 @@ console.log(test.length);
 console.log(test.length+10);
 console.log(test.length-5);
 
+console.log(test.length+10);
 console.log(test.length-5);
-
 
 
 
